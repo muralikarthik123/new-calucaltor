@@ -1,0 +1,27 @@
+.home{
+    width:100%;
+    background-color: black;
+    border:none;
+    .bt{
+        background-color: #363333;
+        color:#29A8FF;
+        gap: 10px;
+        margin-left: 4%;
+        width:20%;
+        height:70px;
+        font-size: 30px;
+        border-radius: 10px;
+        margin-top: 10px;
+    }
+    .bt1{
+        color:white;
+        background-color:#1991FF;
+        gap: 10px;
+        margin-left: 4%;
+        width:20%;
+        height:70px;
+        font-size: 30px;
+        border-radius: 10px;
+        margin-top: 10px;
+    }
+}
