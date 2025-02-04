@@ -1,3 +1,4 @@
+
 import React,{useState} from 'react'
 import Inputs from './input.jsx'
 import './home.css'
@@ -26,7 +27,7 @@ export default function Home() {
         <button className='bt' onClick={()=>open('1')}>1</button>
         <button className='bt' onClick={()=>open('2')}>2</button>
         <button className='bt' onClick={()=>open('3')}>3</button>
-        <button className='bt1' onClick={()=>open('-')}>+</button>
+        <button className='bt1' onClick={()=>open('-')}>-</button>
         <br/> 
         <button className='bt' onClick={()=>open('0')}>0</button>
         <button className='bt1' onClick={()=>open('+')}>+</button>
